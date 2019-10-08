@@ -1,0 +1,11 @@
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\bin\Debug\netcoreapp2.1\TesteJson.deps.json
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\bin\Debug\netcoreapp2.1\TesteJson.runtimeconfig.json
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\bin\Debug\netcoreapp2.1\TesteJson.runtimeconfig.dev.json
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\bin\Debug\netcoreapp2.1\TesteJson.dll
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\bin\Debug\netcoreapp2.1\TesteJson.pdb
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\obj\Debug\netcoreapp2.1\TesteJson.csprojAssemblyReference.cache
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\obj\Debug\netcoreapp2.1\TesteJson.csproj.CoreCompileInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\obj\Debug\netcoreapp2.1\TesteJson.AssemblyInfoInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\obj\Debug\netcoreapp2.1\TesteJson.AssemblyInfo.cs
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\obj\Debug\netcoreapp2.1\TesteJson.dll
+C:\Users\Dev Note 01\Desktop\hiago\TesteJson\TesteJson\obj\Debug\netcoreapp2.1\TesteJson.pdb
